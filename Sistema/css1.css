@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {
+	font-family: 'lato', sans-serif;
+}
+
+a {
+	color: #009FFF;
+}
+
+.quitar-float {
+	float: none;
+}
+
+.espacio-arriba {
+	margin-top: 100px;
+}
+
+.pacifico {
+	font-family: 'pacifico', cursive;
+}
+
+.grande {
+	font-size: 4em;
+}
+
+.casi-grande {
+	font-size: 3em;
+	margin: 0px;
+	padding: 0px;
+}
+
+.verde-planta {
+	color: #90D923;
+}
+
+.espacio-derecha {
+	margin-right: 1em;
+}
+
+.espacio-abajo {
+	margin-bottom: 1em;
+}

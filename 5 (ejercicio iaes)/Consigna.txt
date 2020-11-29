@@ -1,0 +1,19 @@
+Ejercicio 5
+
+5.1
+
+Obtener el mes actual y cambiar el color del fondo de la pantalla de acuerdo a la estación en que nos encontremos.
+
+Imprimir también la cantidad de días restantes para el comienzo de la próxima estación.
+
+
+5.2
+
+Crear un formulario que permita ingresar el nombre del visitante. Luego mostrar un mensaje que diga algo como “Bienvenido NombreDeVisitante”.
+
+
+5.3
+
+Unir los dos ejercicios de manera que la página muestre un mensaje que diga algo como ““Hola NombreDeVisitante”, estamos en $NombreEstacion y faltan $X cantidad de días para $ProximaEstacion.
+
+Es importante trabajar también la parte visual de los resultados (usando HTML y CSS).
